@@ -2,8 +2,11 @@
 下載該專案前請安裝Git，並使用cmd輸入git clone https://github.com/YuOAO-dreamlife/multimedia_Project.git
 
 執行前請在Anaconda開啟terminal安裝以下的Package：
+
 pip install opencv-python
+
 pip install mediapipe
+
 pip install import-ipynb
 
 任何遊戲畫面的執行與修改請在Game.ipynb檔案進行
