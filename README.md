@@ -7,6 +7,7 @@ pip install mediapipe
 pip install import-ipynb
 
 任何遊戲畫面的執行與修改請在Game.ipynb檔案進行
+
 hand_Track_Module.ipynb檔案是我自己手刻的手部偵測函式庫，該檔案內容基本上不會再有所變更
 
 修改完畢後請參考助教的Git版控教學簡報進行上傳+更新，上傳有問題可以問組長。
