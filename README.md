@@ -1,4 +1,4 @@
-# 毛線抓物的貓（YarnGrabCat）
+# 毛線抓物的貓（TheYarnCatcherCat）
 
 執行前請在 Anaconda 開啟 terminal 執行以下指令並安裝所需 Package：
 ```
